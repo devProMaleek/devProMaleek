@@ -52,8 +52,14 @@ More stuff about me
 </summary>
 
 ### GitHub Stats
-[![Abdulmalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=devProMaleek&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devProMaleek&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Abdulmalik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@devProMaleek&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devProMaleek&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devProMaleek&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@devProMaleek&theme=tokyonight" />
+</a>
 
