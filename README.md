@@ -9,7 +9,7 @@
 
 Abdulmalik is an Aspiring Full Stack Web developer and an Enthusiastic Data Scientist. I spend most of my time coding outstanding projects, building accurate models and delivering quality works.
 
-###About Me😎
+### About Me😎
 
 - 😊 I see myself as a curious and self-directed individual.
 - 👨‍🎓 I'm just a student who love to code.
