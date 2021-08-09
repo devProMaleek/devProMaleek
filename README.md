@@ -55,10 +55,10 @@ More stuff about me
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=devProMaleek&show_icons=true&theme=tokyonight" />
-</a>
+</a><br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devProMaleek&theme=tokyonight" />
-</a>
+</a><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username= @devProMaleek" />
 </a>
