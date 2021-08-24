@@ -14,7 +14,7 @@ Abdulmalik is an Aspiring Full Stack Web developer and an Enthusiastic Data Scie
 - 😊 I see myself as a curious and self-directed individual.
 - 👨‍🎓 I'm just a student who love to code.
 - ✔ Fun fact: I love to play online games and exercise.
-- 💻 I'm currently taking SideHustle internship.
+- 💻 I'm currently taking HNG internship.
 - 🔌 Tinkering with electronics.
 - 📖 I'm passionate about Reading
 - LEARNING ALL THE THINGS! No, but seriously, I love learning😀
