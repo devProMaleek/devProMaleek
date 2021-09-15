@@ -21,7 +21,7 @@ Abdulmalik is an Aspiring Full Stack Web developer and an Enthusiastic Data Scie
 - 👨‍💻 I work at Chethsoft Limited.
 
 ### What I am focusing on👨‍💻
-I am currently improving my skills on CSS and JavaScript. Afterward, I'm looking forward to learning ReactJS, NodeJs, GraphQL and solidify my basic on Laravel.
+I am currently improving my skills on React and Figma. Afterward, I'm looking forward to learning Redux, PHP, GraphQL and solidify my basic on Laravel. I am also looking for internship placement so i can challenge myself and gain more experience.
 
 ### Connect with me 🔗:
 
