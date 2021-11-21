@@ -14,11 +14,12 @@ Abdulmalik is an Aspiring Full Stack Web developer and an Enthusiastic Data Scie
 - 😊 I see myself as a curious and self-directed individual.
 - 👨‍🎓 I'm just a student who love to code.
 - ✔ Fun fact: I love to play online games and exercise.
-- 💻 I'm currently taking HNG internship.
+- 💻 I participated in HNG internship 2021, and i opted out at stage 7.
 - 🔌 Tinkering with electronics.
 - 📖 I'm passionate about Reading
 - LEARNING ALL THE THINGS! No, but seriously, I love learning😀
 - 👨‍💻 I work at Chethsoft Limited.
+- 👨‍💻 I work with Mira Payments as a Frontend Intern.
 
 ### What I am focusing on👨‍💻
 I am currently improving my skills on React and Figma. Afterward, I'm looking forward to learning Redux, PHP, GraphQL and solidify my basic on Laravel. I am also looking for internship placement so i can challenge myself and gain more experience.
