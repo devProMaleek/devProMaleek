@@ -20,6 +20,7 @@ Abdulmalik is an Aspiring Full Stack Web developer and an Enthusiastic Data Scie
 - LEARNING ALL THE THINGS! No, but seriously, I love learning😀
 - 👨‍💻 I work at Chethsoft Limited.
 - 👨‍💻 I work with Mira Payments as a Frontend Intern.
+- I am presently learning laravel.
 
 ### What I am focusing on👨‍💻
 I am currently improving my skills on React and Figma. Afterward, I'm looking forward to learning Redux, PHP, GraphQL and solidify my basic on Laravel. I am also looking for internship placement so i can challenge myself and gain more experience.
