@@ -7,23 +7,21 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/devProMaleek/devProMaleek?style=social)
 
 
-Abdulmalik is an Aspiring Full Stack Web developer and an Enthusiastic Data Scientist. I spend most of my time coding outstanding projects, building accurate models and delivering quality works.
+Abdulmalik is an Aspiring Full Stack Web developer. I spend most of my time coding outstanding projects, building accurate models and delivering quality works.
 
 ### About Me😎
 
 - 😊 I see myself as a curious and self-directed individual.
 - 👨‍🎓 I'm just a student who love to code.
 - ✔ Fun fact: I love to play online games and exercise.
-- 💻 I participated in HNG internship 2021, and i opted out at stage 7.
-- 🔌 Tinkering with electronics.
 - 📖 I'm passionate about Reading
 - LEARNING ALL THE THINGS! No, but seriously, I love learning😀
 - 👨‍💻 I work at Chethsoft Limited.
 - 👨‍💻 I work with Mira Payments as a Frontend Intern.
-- I am presently learning laravel.
+- 👨‍💻 I work with CRUD Software as a Laravel Intern.
 
 ### What I am focusing on👨‍💻
-I am currently improving my skills on React and Figma. Afterward, I'm looking forward to learning Redux, PHP, GraphQL and solidify my basic on Laravel. I am also looking for internship placement so i can challenge myself and gain more experience.
+I am currently improving my skills on Redux Toolkit and Laravel. Afterward, I'm looking forward to learning AWS and Cloud Computing. I am also looking for internship placement so i can challenge myself and gain more experience.
 
 ### Connect with me 🔗:
 
@@ -40,12 +38,9 @@ I am currently improving my skills on React and Figma. Afterward, I'm looking fo
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />...
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />...
 
 #
 <details>
