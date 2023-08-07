@@ -13,16 +13,15 @@ Abdulmalik is a passionate [Software Engineer / Full Stack Developer / Frontend 
 
 - 😊 I see myself as a curious and self-directed individual.
 
-- 👨‍🎓 I'm just a student who love to code.
-- ✔ Fun fact: I love to play online games and exercise.
-- 📖 I'm passionate about Reading
-- LEARNING ALL THE THINGS! No, but seriously, I love learning😀
-- 👨‍💻 I work at Chethsoft Limited.
-- 👨‍💻 I work with Mira Payments as a Frontend Intern.
-- 👨‍💻 I work with CRUD Software as a Laravel Intern.
+- 👳‍♂️ I'm just a Muslim who love to code.
 
-### What I am focusing on👨‍💻
-I am currently improving my skills on Redux Toolkit and Laravel. Afterward, I'm looking forward to learning AWS and Cloud Computing. I am also looking for internship placement so i can challenge myself and gain more experience.
+- ✔  Fun fact: I love to play online games, watch movies and exercise.
+
+- 📖 I'm passionate about Reading and learning new things.
+
+- LEARNING ALL THE THINGS! No, but seriously, I love learning😀
+
+- 👨‍💻 I work with Propatii as a Mobile Engineer.
 
 ## 🌱 Currently Learning
 
@@ -30,16 +29,25 @@ I'm constantly learning and exploring new technologies. Some of the technologies
 
 - [Next.js](https://nextjs.org/)
 
-- [GraphQL](https://graphql.org/)
-- [Docker](https://www.docker.com/)
+- [Python](https://www.python.org/)
+
+- [React Native](https://reactnative.dev/)
+
+- [You Don't Know Javascript Yet](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
+
+- [Data Structrure and Algorithm]()
 
 ## 🚀 Projects
 
 Here are some of the projects I am  currently working on:
 
-- [Messenger App](https://github.com/your_username/project1) - Short project description.
+- [Messenger App](https://github.com/devProMaleek/messenger-app) - A feature-rich messenger app for seamless communication.
 
-- [Vacation App](https://github.com/your_username/project2) - Short project description.
+- [Vacation App](https://github.com/devProMaleek/airbnb-clone) - A vacation app for seamless travel planning.
+
+- [Music App](https://github.com/devProMaleek/music-app) - A   captivating music app for audio enthusiasts,.
+
+- [Fintech App](https://github.com/devProMaleek/fintech-app) - A  secure fintech app for financial transactions.
 
 
 ## 📫 Connect With Me
@@ -57,6 +65,7 @@ Here are some of the projects I am  currently working on:
 ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![NextJs](https://img.shields.io/badge/-NextJs-000?logo=Next.js&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
