@@ -1,5 +1,5 @@
 # Hey there, I'm Abdulmalik <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="28px"  alt="hi">
-### Welcome to my Github Profile
+### Welcome to my GitHub Profile
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=devProMaleek.devProMaleek)
 [![GitHub followers](https://img.shields.io/github/followers/devProMaleek.svg?style=social&label=Follow)](https://github.com/devProMaleek?tab=followers)
 ![GitHub forks](https://img.shields.io/github/forks/devProMaleek/devProMaleek?style=social)
@@ -13,7 +13,7 @@ Abdulmalik is a passionate [Software Engineer / Full Stack Developer / Frontend 
 
 - 😊 I see myself as a curious and self-directed individual.
 
-- 👳‍♂️ I'm just a Muslim who love to code.
+- 👳‍♂️ I'm just a Muslim who loves to code.
 
 - ✔  Fun fact: I love to play online games, watch movies and exercise.
 
@@ -35,7 +35,7 @@ I'm constantly learning and exploring new technologies. Some of the technologies
 
 - [You Don't Know Javascript Yet](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 
-- [Data Structrure and Algorithm]()
+- [Data Structures and Algorithm]()
 
 ## 🚀 Projects
 
@@ -62,7 +62,7 @@ Here are some of the projects I am  currently working on:
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=flat)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![NextJs](https://img.shields.io/badge/-NextJs-000?logo=Next.js&logoColor=white&style=flat)
