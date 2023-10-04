@@ -62,6 +62,7 @@ Here are some of the projects I am  currently working on:
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![NextJs](https://img.shields.io/badge/-NextJs-000?logo=Next.js&logoColor=white&style=flat)
