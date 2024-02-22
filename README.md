@@ -21,7 +21,7 @@ Abdulmalik is a passionate [Software Engineer / Full Stack Developer / Frontend 
 
 - LEARNING ALL THE THINGS! No, but seriously, I love learning😀
 
-- 👨‍💻 I work with Propatii as a Mobile Engineer.
+- 👨‍💻 I work with MatjerQ as a Mobile Engineer.
 
 ## 🌱 Currently Learning
 
